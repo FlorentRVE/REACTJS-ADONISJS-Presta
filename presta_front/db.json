@@ -1,0 +1,123 @@
+{
+  "providers": [
+    {
+      "id": "1",
+      "name": "John gito",
+      "email": "a@b.com",
+      "area": "West",
+      "job": "Developper",
+      "tel": "0588558",
+      "avatar": "https://www.picsum.photos/300/300?random=1"
+    },
+    {
+      "id": "2",
+      "name": "Mark Hammil",
+      "email": "m@h.com",
+      "area": "East",
+      "job": "Builder",
+      "tel": "0588558",
+      "avatar": "https://www.picsum.photos/300/300?random=2"
+    },
+    {
+      "id": "3",
+      "name": "Jean Grey",
+      "email": "j@g.com",
+      "area": "South",
+      "job": "Fighter",
+      "tel": "058855858",
+      "avatar": "https://www.picsum.photos/300/300?random=3"
+    },
+    {
+      "id": "4",
+      "name": "Victor Chevalier",
+      "email": "v@c.com",
+      "area": "West",
+      "job": "Barman",
+      "tel": "058855858",
+      "avatar": "https://www.picsum.photos/300/300?random=4"
+    },
+    {
+      "id": "5",
+      "name": "Miguel cabballerro",
+      "email": "m@c.com",
+      "area": "South",
+      "job": "Brawler",
+      "tel": "05885585858",
+      "avatar": "https://www.picsum.photos/300/300?random=5"
+    },
+    {
+      "id": "6",
+      "name": "Lee Chaolan",
+      "email": "l@c.com",
+      "area": "South",
+      "job": "Carpenter",
+      "tel": "058852758",
+      "avatar": "https://www.picsum.photos/300/300?random=6"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "1",
+      "name": "Developer"
+    },
+    {
+      "id": "2",
+      "name": "Carpenter"
+    },
+    {
+      "id": "3",
+      "name": "Brawler"
+    },
+    {
+      "id": "4",
+      "name": "Barman"
+    },
+    {
+      "id": "5",
+      "name": "Builder"
+    },
+    {
+      "id": "6",
+      "name": "Fighter"
+    },
+    {
+      "id": "7",
+      "name": "Architect"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John gito",
+      "job": "Developper",
+      "area": "West",
+      "email": "a@b.com",
+      "password": "toto",
+      "avatar": "https://www.picsum.photos/300/300?random=1",
+      "isAdmin": false,
+      "enabled": false
+    },
+    {
+      "id": "4",
+      "name": "Victor Chevalier",
+      "job": "Barman",
+      "area": "West",
+      "email": "v@c.com",
+      "password": "toto",
+      "avatar": "https://www.picsum.photos/300/300?random=4",
+      "isAdmin": false,
+      "enabled": false
+    },
+    {
+      "id": "6",
+      "name": "Lee Chaolan",
+      "job": "Carpenter",
+      "area": "South",
+      "email": "l@c.com",
+      "password": "toto",
+      "avatar": "https://www.picsum.photos/300/300?random=6",
+      "isAdmin": false,
+      "enabled": false
+    }
+  ]
+}
