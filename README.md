@@ -27,7 +27,7 @@ Les objectifs du projet :
 
 ### Screenshot
 
-![screenshot](/presta.png)
+![screenshot](/presta.PNG)
 
 
 ## Méthode
