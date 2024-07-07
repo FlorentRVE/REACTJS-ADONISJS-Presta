@@ -22,8 +22,9 @@ Exercice site de recherche de prestataire
 
 Les objectifs du projet :
 
-- Création d'une To do list en utilisant React.js
+- Création d'un site de recherche de prestataire en utilisant React.js
 - Gestion du backend avec Adonis.js
+- Possibilité de voir les prestataire, de s'inscrire et de modifier son profil
 
 ### Screenshot
 
@@ -35,7 +36,8 @@ Les objectifs du projet :
 ### Compétences acquises
 
 - Utilisation des contextes en React
-- Découverte Adonis.js
+- Découverte Adonis.js et Lucid (ORM)
+- Découverte de ZOD
 - Utilisation DaisyUI 
 
 ### Outils
@@ -44,3 +46,4 @@ Les objectifs du projet :
 - [React](https://react.com/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [DaisyUI](https://daisyui.com/)
+- [ZOD](https://zod.dev/)
